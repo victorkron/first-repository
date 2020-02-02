@@ -20,7 +20,9 @@
 }
 
 .field {
-    background-color: #c9c0bb;
+    background-image: url("https://storge.pic2.me/upload/298/5829c95256013.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
     border-radius: 14px;
     cursor: pointer;
     color: #fff;
